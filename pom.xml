@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>com.test.prime.service</groupId>
-	<artifactId>rest-prime-generator</artifactId>
+	<artifactId>primeNoGeneration</artifactId>
 	<version>1.0</version>
 
 
